@@ -20,7 +20,7 @@ export default function SearchBar({ value, onChange }: SearchBarProps) {
       type="text"
       value={value}
       onChange={handleChange}
-      placeholder="Try Om, Sri Yantra, Shreem..."
+      placeholder="Try Om, Sri Yantra"
       className="search-input"
     />
   </div>

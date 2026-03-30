@@ -25,4 +25,8 @@ npm run dev
 http://localhost:5173/
 ```
 
+### 3. Open the link to checkout the app
+
+![Image of UI](public/images/ui.png)
+
 
